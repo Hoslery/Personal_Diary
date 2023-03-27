@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_name_text_size">28sp</dimen>
+    <dimen name="app_about_text_size">14sp</dimen>
+    <dimen name="entry_margin_start">16dp</dimen>
+    <dimen name="entry_margin_top">20dp</dimen>
+    <dimen name="entry_create_margin_start">16dp</dimen>
+    <dimen name="entry_create_margin_top">16dp</dimen>
+    <dimen name="entry_create_margin_end">16dp</dimen>
+    <dimen name="entry_text_padding_end">60dp</dimen>
+    <dimen name="entry_text_size">28sp</dimen>
+    <dimen name="entry_tags_text_size">22sp</dimen>
+    <dimen name="entry_date_margin_bottom">16dp</dimen>
+    <dimen name="icon_delete_margin_top">8dp</dimen>
+    <dimen name="icon_delete_margin_end">8dp</dimen>
+    <dimen name="button_update_margin_top">-7dp</dimen>
+    <dimen name="button_update_text_size">12sp</dimen>
+    <dimen name="filter_name_padding_horizontal">12dp</dimen>
+    <dimen name="filter_name_padding_vertical">4dp</dimen>
+    <dimen name="filter_list_padding_start">40dp</dimen>
+    <dimen name="filter_list_padding_end">40dp</dimen>
+</resources>

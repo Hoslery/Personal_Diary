@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Personal Diary</string>
+    <string name="fio" translatable="false">Egor A.T.</string>
+    <string name="info_about_app">The application allows you to keep a personal diary with notes</string>
+    <string name="btn_create_name">Create a record</string>
+    <string name="entry_text">Text entry</string>
+    <string name="entry_date">Date entry</string>
+    <string name="entry_tags">Tags entry</string>
+    <string name="create_entry_title">Create Entry</string>
+    <string name="update_entry_title">Update Entry</string>
+    <string name="done">Done</string>
+    <string name="update">Update</string>
+    <string name="filter_tag">Tag</string>
+    <string name="error_text">The text is missing</string>
+    <string name="error_tags">Tags must contain the # character and be separated by commas</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Личный дневник</string>
+    <string name="info_about_app">Приложение позволяет вести личный дневник с заметками</string>
+    <string name="btn_create_name">Создать запись</string>
+    <string name="entry_text">Текст записи</string>
+    <string name="entry_date">Дата записи</string>
+    <string name="entry_tags">Теги записи</string>
+    <string name="create_entry_title">Создание записи</string>
+    <string name="update_entry_title">Обновление записи</string>
+    <string name="done">Готово</string>
+    <string name="update">Обновить</string>
+    <string name="filter_tag">Тег</string>
+    <string name="error_text">Текст отсутствует</string>
+    <string name="error_tags">Теги должны содержать символ # и идти через запятую</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppNameStyle">
+        <item name="android:fontFamily">@font/bungee</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/app_name_text_size</item>
+    </style>
+
+    <style name="AppAboutStyle">
+        <item name="android:fontFamily">@font/bungee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/app_about_text_size</item>
+    </style>
+
+    <style name="EntryStyle">
+        <item name="android:layout_marginStart">@dimen/entry_margin_start</item>
+        <item name="android:layout_marginTop">@dimen/entry_margin_top</item>
+    </style>
+
+    <style name="EntryCreateStyle">
+        <item name="android:layout_marginStart">@dimen/entry_create_margin_start</item>
+        <item name="android:layout_marginTop">@dimen/entry_create_margin_top</item>
+        <item name="android:layout_marginEnd">@dimen/entry_create_margin_end</item>
+    </style>
+
+    <style name="EntryTextStyle" parent="EntryStyle">
+        <item name="android:paddingEnd">@dimen/entry_text_padding_end</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/entry_text_size</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="EntryTagsStyle" parent="EntryStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/entry_tags_text_size</item>
+    </style>
+
+    <style name="EntryDateStyle" parent="EntryStyle">
+        <item name="android:textStyle">italic</item>
+        <item name="android:layout_marginBottom">@dimen/entry_date_margin_bottom</item>
+    </style>
+
+    <style name="IconDeleteStyle">
+        <item name="android:layout_marginTop">@dimen/icon_delete_margin_top</item>
+        <item name="android:layout_marginEnd">@dimen/icon_delete_margin_end</item>
+    </style>
+
+    <style name="ButtonUpdateStyle">
+        <item name="android:layout_marginTop">@dimen/button_update_margin_top</item>
+        <item name="android:textSize">@dimen/button_update_text_size</item>
+    </style>
+
+    <style name="FilterNameStyle">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:paddingHorizontal">@dimen/filter_name_padding_horizontal</item>
+        <item name="android:paddingVertical">@dimen/filter_name_padding_vertical</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="FilterListStyle">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingStart">@dimen/filter_list_padding_start</item>
+        <item name="android:paddingEnd">@dimen/filter_list_padding_end</item>
+    </style>
+</resources>
